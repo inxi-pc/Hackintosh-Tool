@@ -1,8 +1,15 @@
 [submodule "MountEFI"]
 	path = MountEFI
+	url = 
 [submodule "OCConfigCompare"]
 	path = OCConfigCompare
+	url = 
 [submodule "ProperTree"]
 	path = ProperTree
+	url = 
 [submodule "GenSMBIOS"]
 	path = GenSMBIOS
+	url = 
+[submodule "OcBinaryData"]
+	path = OcBinaryData
+	url = ./OcBinaryData
