@@ -4,3 +4,5 @@
 	path = OCConfigCompare
 [submodule "ProperTree"]
 	path = ProperTree
+[submodule "GenSMBIOS"]
+	path = GenSMBIOS
