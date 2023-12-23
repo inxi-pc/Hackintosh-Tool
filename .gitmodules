@@ -1,0 +1,6 @@
+[submodule "MountEFI"]
+	path = MountEFI
+[submodule "OCConfigCompare"]
+	path = OCConfigCompare
+[submodule "ProperTree"]
+	path = ProperTree
